@@ -1,0 +1,8 @@
+git init
+git clone
+touch h1.txt
+vi h1.txt
+cat h1.txt
+git status
+git commit
+git push
